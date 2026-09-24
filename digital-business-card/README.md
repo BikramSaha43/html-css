@@ -1,0 +1,1 @@
+A digital business card created using HTML and CSS. The project includes a basic profile layout with simple styling and design.
